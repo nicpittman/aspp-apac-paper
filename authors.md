@@ -8,3 +8,5 @@
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+* Claire Trenham
+* Nic Pittman
