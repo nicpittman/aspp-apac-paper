@@ -8,5 +8,10 @@
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+ Genevieve Buckley
+* Kerensa McElroy
+* Juan Nunez-Iglesias
+* Benjamin Schwessinger
 * Claire Trenham
 * Nic Pittman
+*
